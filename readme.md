@@ -1,3 +1,4 @@
+```plaintext
 my-backend-app/
 │
 ├── config/
@@ -25,3 +26,5 @@ my-backend-app/
 ├── package.json
 ├── README.md
 └── .env
+```
+
