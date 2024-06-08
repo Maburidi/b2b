@@ -28,3 +28,37 @@ my-backend-app/
 └── .env
 ```
 
+
+
+
+```plaintext
+my-backend-app/
+│
+├── config/
+│   ├── config.js
+│   └── database.js
+│
+├── controllers/
+│   └── userController.js
+│
+├── models/
+│   └── User.js
+│
+├── routes/
+│   └── userRoutes.js
+│
+├── tests/
+│   └── user.test.js
+│
+├── utils/
+│   └── helperFunctions.js
+│
+├── .gitignore
+├── app.js
+├── package.json
+├── README.md
+└── .env
+```
+
+
+
